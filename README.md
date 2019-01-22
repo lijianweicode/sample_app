@@ -1,25 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Ruby  2.5.3
 
-* Ruby version
-
-* System dependencies
+* System Ubuntu 14.04
 
 * Configuration
 
-* Database creation
+* Database Sqlite3
 
-* Database initialization
-
-* How to run the test suite
+* git clone 
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
 # sample_app
