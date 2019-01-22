@@ -9,8 +9,10 @@
 
 * Database Sqlite3
 
-* git clone 
+* git clone git@github.com:lijianweicode/sample_app.git
 
-* Services (job queues, cache servers, search engines, etc.)
+* cd sample_app
+
+* 删除 
 
 # sample_app
