@@ -5,6 +5,8 @@
 
 * Ruby  2.5.3
 
+* Rails 5.2.2
+
 * System Ubuntu 14.04
 
 * Configuration
