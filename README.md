@@ -15,7 +15,7 @@
 
 * 运行
 
-  1. git clone git clone https://github.com/lijianweicode/sample_app.git
+  1. git clone https://github.com/lijianweicode/sample_app.git
 
   2. cd sample_app
 
