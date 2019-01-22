@@ -1,25 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# sample_app from Ruby on Rails Tutorial 5
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby  2.5.3
 
-* System dependencies
+* Rails 5.2.2
+
+* System Ubuntu 14.04
 
 * Configuration
 
-* Database creation
+* Database Sqlite3
 
-* Database initialization
+* 运行
 
-* How to run the test suite
+  1. git clone git@github.com:lijianweicode/sample_app.git
 
-* Services (job queues, cache servers, search engines, etc.)
+  2. cd sample_app
 
-* Deployment instructions
+  3. rm Gemfile.lock
+  
+  4. bundle install
 
-* ...
-# sample_app
